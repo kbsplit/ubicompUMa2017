@@ -1,37 +1,28 @@
 ## Welcome to ubicomp project @UMa 2017 page
 
-You can use the [editor on GitHub](https://github.com/kbsplit/ubicompUMa2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+During Spring semester 2017, five groups of master students deveolped their projects in the scope of Ubiquitous Computing course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Group 1 - IntelBin: A Smart Trash Bin using IoT
 
-### Markdown
+## Abstract
+Public Buildings and corporate environment generate a big flow of waste that needs to be managed. By using an ubiquitous solution and IoT concepts this paper proposes a system named IntelBin, consisting of a trash bin that can measure its garbage level, and also auto compact it. By being connected to the web this garbage bin can be used in conjunction with a website and smartphone application that helps the cleaning and maintenance staff to organize their tasks better. Our tests suggest that such a system could be feasible from a technical and mechanical standpoint, although further research and user testing have to be made, to completely validate our system. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Group 2 - WearWeather
 
-```markdown
-Syntax highlighted code block
+## Abstract
+With WearWeather, we expect to avoid stress and overthinking, when getting ready to work or school. Have you ever experienced feeling cold during the day but when you left home earlier it was warm? How many times do you check the weather forecast before choosing what to wear? Our approach consists in adding a display to the closet where it will provide a weather forecast and give advice to the user for the daily journey. The weather forecast is provided according to the locations that the user is going to visit on each day. Local temperature is captured by a physical sensor installed out of the window of the user’s residence. The aim of this study is to understand how the users feel the temperatures and how to design a system that can respond to the user needs. 
 
-# Header 1
-## Header 2
-### Header 3
+# Group 3 - Smart Shelf For Food Management Based On Wireless Technology
 
-- Bulleted
-- List
+## Abstract
+Modern living leads people to change their lifestyle, as a result, innovative ideas and new solutions are required to promote for tomorrow’s living. By leveraging Beacon technology, we propose a smart home shelf, which allows the user to effectively manage food, to make recommendations on recipes and to automatically generate To-buy list and alerts depending upon the need of a product. We evaluate our system on BLE Beacon tags recognition and load cell accuracy. The experimental results show that recognition accuracy can be affected by the number of products on the shelf and by positioning the beacon on the item. We analyze different use cases, as well as different ways of placing the tag on the product. 
 
-1. Numbered
-2. List
+# Group 4 - Smart Room Monitor
 
-**Bold** and _Italic_ and `Code` text
+## Abstract
+In this work, the concepts of sensors and context are used, aiming to obtain the conditions and characteristics of a study room at our university. In this way, it is intended to create a platform that allows the collection of data through sensors and then the dissemination of the same through a website and an Android application, making the choice of a study room as optimized as possible. It is also intended to improve the conditions of the study room, providing a better academic performance by students. We used Arduino and Raspberry Pi 3 Model B as the main components to collect and process data. 
 
-[Link](url) and ![Image](src)
-```
+# Group 5 - Room mapping with Sphero
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kbsplit/ubicompUMa2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Abstract
+Room mapping is an important field of robotics nowadays. It’s important for a robot to know its position in a room so it can better interact with it. With this work, we intend to figure out if it is possible to easily map a room with a small robot, like Sphero. Sphero is a ball-like robot made by the company Sphero and we can control Sphero with a phone app, or use another supported technology to control it. Our plan is to seek a way to automatize this procedure as much as possible, and to minimize the interaction needed of a human. We plan to study different algorithms for room-mapping and try to decide which ones are the most efficient for each situation. Lastly, we would like to connect Sphero and its room mapping abilities that we implemented to interact with other robots that don’t have such abilities and successfully give them the room information by creating a communication channel between Sphero and such robots.
