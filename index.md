@@ -1,7 +1,3 @@
-## Welcome to ubicomp project @UMa 2017 page
-
-During Spring semester 2017, five groups of master students deveolped their projects in the scope of Ubiquitous Computing course.
-
 # Group 1 - IntelBin: A Smart Trash Bin using IoT
 
 ## Abstract
@@ -16,6 +12,11 @@ With WearWeather, we expect to avoid stress and overthinking, when getting ready
 
 ## Abstract
 Modern living leads people to change their lifestyle, as a result, innovative ideas and new solutions are required to promote for tomorrow’s living. By leveraging Beacon technology, we propose a smart home shelf, which allows the user to effectively manage food, to make recommendations on recipes and to automatically generate To-buy list and alerts depending upon the need of a product. We evaluate our system on BLE Beacon tags recognition and load cell accuracy. The experimental results show that recognition accuracy can be affected by the number of products on the shelf and by positioning the beacon on the item. We analyze different use cases, as well as different ways of placing the tag on the product. 
+
+Project code available at:
+https://github.com/fcl-93/Ubiqua-Laravel
+https://github.com/vmcbaptista/shelf_pi
+https://github.com/filipaNobrega/UComp_Android.git
 
 # Group 4 - Smart Room Monitor
 
